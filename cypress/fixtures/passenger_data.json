@@ -1,11 +1,11 @@
 {
   "TRAIN_NO": "12863",
-  "TRAIN_COACH": "3A",
+  "TRAIN_COACH": "SL",
   "TRAVEL_DATE": "02/05/2024",
   "SOURCE_STATION": "HWH",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "SMVB",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "sk995540@ybl",
   "PASSENGER_DETAILS": [
@@ -13,7 +13,7 @@
       "NAME": "Ashok Kumar Mishra",
       "AGE": 21,
       "GENDER": "Male",
-      "SEAT": "Upper",
+      "SEAT": "",
       "FOOD": "No Food"
     }
   ],
